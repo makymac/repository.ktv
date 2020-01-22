@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="pvr.KrajnaTV"
+  version="1.5"
+  name="KrajnaTV PVR"
+  provider-name="KrajnaTV">
+  <requires>
+<import addon="kodi.binary.global.main" version="1.0.13"/>
+<import addon="kodi.binary.instance.pvr" version="5.10.3"/></requires>
+  <extension
+    point="xbmc.pvrclient"
+    library_windows="pvr.iptvsimple.dll"/>
+  <extension point="xbmc.addon.metadata">
+    
+    <summary lang="en_AU">KrajnaTV PVR</summary>
+    <summary lang="en_GB">KrajnaTV PVR</summary>
+    <platform>windows-x86_64</platform>
+  </extension>
+</addon>

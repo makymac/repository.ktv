@@ -1,0 +1,14 @@
+<settings version="2">
+    <setting id="_fresh">false</setting>
+    <setting id="_userdata">{&quot;username&quot;: &quot;FUCK OFF NOSEY BASTARD&quot;, &quot;alerts&quot;: [&quot;8e654edf-8abc-4a92-b1fd-1927479b0849&quot;, &quot;151101a5-4194-4940-b7b3-0aba62e73fea&quot;], &quot;expires&quot;: 1576489212, &quot;token&quot;: &quot;eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoic2Vzc2lvbiIsInVpZCI6IjQ3YzAwMGRhLWI5MjQtNDdkNS05YjVmLTMxNTM3YWVhZmYwZSIsImFub24iOmZhbHNlLCJwZXJtaXNzaW9ucyI6bnVsbCwiYXBpS2V5IjoiMzg4MmRkNDMtZWRjMC00NWM5LWE5OTMtOWFlNDM0YTFiZTYwIiwiZGV2aWNlSUQiOiI2NDA0MzFiZS0xMTM4LTM2NTctOTI1NC1kMmM5Yzc5N2QwNzciLCJyZWdpb25zIjpbIjdiYjcxOTkwLTFlOGQtMTFlOS05MDBlLTlkNDkyMzVkNWRiMCJdLCJleHAiOjE1NzY0ODkyMjIsImlhdCI6MTU2NjQ3NzExMiwiaXNzIjoiT3JiaXMtT0FNLVYxIiwic3ViIjoiNDdjMDAwZGEtYjkyNC00N2Q1LTliNWYtMzE1MzdhZWFmZjBlIn0.Rie4mPvLH-cjXpb60j7m2q3Q7FUYBLiru51VtyNwmXwF2ZOGvRiWqXPJvgM6IugPnoVCU3TkEZMHd7FAmYJf_g&quot;, &quot;deviceid&quot;: &quot;640431be-1138-3657-9254-d2c9c797d077&quot;, &quot;last_quality&quot;: -2, &quot;quality&quot;: 8000000}</setting>
+    <setting id="chunksize">4096</setting>
+    <setting id="default_quality" default="true">0</setting>
+    <setting id="http_retries">2</setting>
+    <setting id="http_timeout">30</setting>
+    <setting id="live_play_type" default="true">0</setting>
+    <setting id="max_bandwidth">7</setting>
+    <setting id="quality_enabled" default="true">true</setting>
+    <setting id="service_delay" default="true">0</setting>
+    <setting id="use_ia_hls">true</setting>
+    <setting id="verify_ssl">true</setting>
+</settings>
